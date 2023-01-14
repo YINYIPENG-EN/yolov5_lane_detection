@@ -33,7 +33,7 @@
 python detect.py --weights yolov5s.pt --source data/images/test.mp4 --lane
 ```
 
-![image](data/images/test.jpg)
+![image](./data/images/test.jpg)
 
 # 训练自己的数据集：
 
