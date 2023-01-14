@@ -33,7 +33,9 @@
 python detect.py --weights yolov5s.pt --source data/images/test.mp4 --lane
 ```
 
-![image](./data/images/test.jpg)
+<p align="center">
+  <img src="data/images/test.jpg" />
+</p>
 
 # 训练自己的数据集：
 
